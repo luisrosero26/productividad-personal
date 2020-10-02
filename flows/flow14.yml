@@ -1,0 +1,119 @@
+completion_text: |-
+  <h2 class="activity-intro__title heading--h3" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: &quot;Roboto Slab&quot;, Georgia, sans-serif; text-rendering: optimizelegibility; margin: 0px 0px 2rem; -webkit-font-smoothing: antialiased; font-size: 2rem; line-height: 2.2rem; color: rgba(0, 0, 0, 0.87); max-width: 50%;"><span style="color: rgb(97, 97, 97); font-family: Roboto, Arial, sans-serif; font-size: 14px; text-align: center;">Responde a todas las preguntas y haz clic en ENVIAR.</span><br></h2>
+description: "Objetivos:\r\n\r\nConocer c\xF3mo desarrollar un plan estrat\xE9gico\
+  \ como herramienta base para conseguir nuestros objetivos.\r\nSentar las bases para\
+  \ utilizar el plan estrat\xE9gico como herramienta de soporte para el plan de acci\xF3\
+  n."
+next_flow_id: quiz15
+next_flow_title: Comprueba tus conocimientos
+pages:
+- content: "<h4 class=\"video__key-learn__title\" style=\"-webkit-tap-highlight-color:\
+    \ rgba(0, 0, 0, 0); font-family: Roboto, Arial, sans-serif; text-rendering: optimizelegibility;\
+    \ margin: 0px 0px 1rem; -webkit-font-smoothing: antialiased; font-size: 1.6rem;\
+    \ line-height: 2.8rem; color: rgb(0, 0, 0);\"><br></h4><div class=\"video__key-learn__text\"\
+    \ style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; line-height:\
+    \ 1.625; color: rgba(0, 0, 0, 0.87); font-family: Roboto, Arial, sans-serif;\"\
+    ><ul style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); padding-left: 1.2rem;\
+    \ line-height: 1.625; list-style: none;\"><li style=\"-webkit-tap-highlight-color:\
+    \ rgba(0, 0, 0, 0); position: relative;\"><iframe frameborder=\"0\" src=\"//www.youtube.com/embed/WD6XJT9yjxQ\"\
+    \ width=\"640\" height=\"360\" class=\"note-video-clip\"></iframe><br></li></ul></div><p\
+    \ style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: &quot;Google\
+    \ Sans&quot;, Arial, sans-serif; font-size: 1.6rem; line-height: 2.4rem; margin-bottom:\
+    \ 2.1rem; color: rgba(0, 0, 0, 0.87);\"><br></p><p style=\"-webkit-tap-highlight-color:\
+    \ rgba(0, 0, 0, 0); font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size:\
+    \ 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem; color: rgba(0, 0, 0, 0.87);\"\
+    ><br></p><p style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family:\
+    \ &quot;Google Sans&quot;, Arial, sans-serif; font-size: 1.6rem; line-height:\
+    \ 2.4rem; margin-bottom: 2.1rem; color: rgba(0, 0, 0, 0.87);\">Hola, estamos con\
+    \ Roc\xEDo P\xE9rez Guardo para hablar sobre planes estrat\xE9gicos y planes de\
+    \ acci\xF3n.</p><p style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family:\
+    \ &quot;Google Sans&quot;, Arial, sans-serif; font-size: 1.6rem; line-height:\
+    \ 2.4rem; margin-bottom: 2.1rem; color: rgba(0, 0, 0, 0.87);\">Hola, Natalia.</p><p\
+    \ style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: &quot;Google\
+    \ Sans&quot;, Arial, sans-serif; font-size: 1.6rem; line-height: 2.4rem; margin-bottom:\
+    \ 2.1rem; color: rgba(0, 0, 0, 0.87);\">Roc\xEDo, \xBFqu\xE9 es un plan estrat\xE9\
+    gico y para qu\xE9 nos puede servir?</p><p style=\"-webkit-tap-highlight-color:\
+    \ rgba(0, 0, 0, 0); font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size:\
+    \ 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem; color: rgba(0, 0, 0, 0.87);\"\
+    >Un plan estrat\xE9gico personal o un Branding Plan, es una herramienta que nos\
+    \ sirve para conocernos mejor a nosotros mismos, el autoconocimiento, saber d\xF3\
+    nde estamos, c\xF3mo somos... Nos sirve tambi\xE9n para identificar a d\xF3nde\
+    \ queremos llegar, nuestros objetivos y nos sirve tambi\xE9n, para identificar\
+    \ esa distancia que existe, entre d\xF3nde estamos y d\xF3nde queremos llegar,\
+    \ lo cual, tendr\xEDamos que ejecutar a trav\xE9s de un plan de acci\xF3n.</p><p\
+    \ style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: &quot;Google\
+    \ Sans&quot;, Arial, sans-serif; font-size: 1.6rem; line-height: 2.4rem; margin-bottom:\
+    \ 2.1rem; color: rgba(0, 0, 0, 0.87);\">Es una herramienta muy potente, tanto\
+    \ para nuestro desarrollo personal, como para nuestro desarrollo profesional,\
+    \ lo que ocurre es que, obviamente, es un proceso tedioso, de reflexi\xF3n, es\
+    \ un proceso lento, identificamos cosas de nosotros mismos que no nos gustan,\
+    \ etc\xE9tera. Pero, desde mi punto de vista es bastante importante. En muchas\
+    \ ocasiones en la vida, especialmente en el entorno laboral, nos damos cuenta\
+    \ de que alguna cosa no funciona o no sale bien porque no se ha planificado, no\
+    \ se le ha prestado previamente la atenci\xF3n debida pero, en esos casos, puede\
+    \ que nosotros no tengamos influencia sobre esas situaciones.</p><p style=\"-webkit-tap-highlight-color:\
+    \ rgba(0, 0, 0, 0); font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size:\
+    \ 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem; color: rgba(0, 0, 0, 0.87);\"\
+    >\xBFQu\xE9 ocurre cuando tenemos insatisfacciones personales y s\xED que tenemos\
+    \ la posibilidad de influir? En ese caso, nos daremos cuenta de que estamos eludiendo\
+    \ una gran responsabilidad si no articulamos con anterioridad un plan estrat\xE9\
+    gico.</p><p style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family:\
+    \ &quot;Google Sans&quot;, Arial, sans-serif; font-size: 1.6rem; line-height:\
+    \ 2.4rem; margin-bottom: 2.1rem; color: rgba(0, 0, 0, 0.87);\">\xBFTodo el mundo\
+    \ necesita un plan estrat\xE9gico?</p><p style=\"-webkit-tap-highlight-color:\
+    \ rgba(0, 0, 0, 0); font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size:\
+    \ 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem; color: rgba(0, 0, 0, 0.87);\"\
+    >Muchas insatisfacciones en nuestro d\xEDa a d\xEDa se producen porque ni siquiera\
+    \ tenemos claros nuestros objetivos, a d\xF3nde queremos llegar, cu\xE1les son\
+    \ nuestras prioridades. Pero lo importante, no es tener claros los objetivos,\
+    \ sino que esa inexistencia de objetivos no nos genere malestar. Si nos genera\
+    \ malestar, es importante tener un plan estrat\xE9gico. Tambi\xE9n es verdad que,\
+    \ aunque todos tenemos m\xE1s o menos identificados algunos objetivos, no siempre\
+    \ es el momento de poner en marcha una acci\xF3n para perseguirlos: depende del\
+    \ momento vital, de c\xF3mo nos situemos en una fecha concreta, de cu\xE1l son\
+    \ nuestras prioridades en ese momento... Entonces, lo que te responder\xEDa a\
+    \ esa pregunta, es que un plan estrat\xE9gico, es v\xE1lido para todo el mundo,\
+    \ siempre y cuando sea una herramienta \xFAtil, no una herramienta que nos agobie\
+    \ o nos encorsete.</p><p style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0);\
+    \ font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 1.6rem;\
+    \ line-height: 2.4rem; margin-bottom: 2.1rem; color: rgba(0, 0, 0, 0.87);\">\xBF\
+    Qu\xE9 vamos a ver a lo largo de este m\xF3dulo?</p><p style=\"-webkit-tap-highlight-color:\
+    \ rgba(0, 0, 0, 0); font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size:\
+    \ 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem; color: rgba(0, 0, 0, 0.87);\"\
+    >Bueno, pues a lo largo de este m\xF3dulo, atendiendo a las diferentes partes\
+    \ de la definici\xF3n del plan estrat\xE9gico. Empezaremos por el autoconocimiento,\
+    \ en qu\xE9 aspectos nos podemos fijar para conocernos mejor. Seguiremos por el\
+    \ establecimiento de objetivos, c\xF3mo fijamos objetivos y tambi\xE9n, c\xF3\
+    mo articulamos un plan de acci\xF3n para que esa consecuci\xF3n de objetivos sea\
+    \ m\xE1s sencilla. Cerraremos el m\xF3dulo hablando de diferentes apoyos, que\
+    \ podemos tener en cuenta, para que este proceso tan tedioso, sea un poquitito\
+    \ m\xE1s motivador. Hablaremos de profesionales que nos pueden ayudar y tambi\xE9\
+    n de la posibilidad de constituir, por ejemplo, equipos de trabajo.</p><p style=\"\
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: &quot;Google Sans&quot;,\
+    \ Arial, sans-serif; font-size: 1.6rem; line-height: 2.4rem; margin-bottom: 2.1rem;\
+    \ color: rgba(0, 0, 0, 0.87);\">Roc\xEDo, muchas gracias por tu intervenci\xF3\
+    n.</p><p style=\"-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: &quot;Google\
+    \ Sans&quot;, Arial, sans-serif; font-size: 1.6rem; line-height: 2.4rem; margin-bottom:\
+    \ 0px; color: rgba(0, 0, 0, 0.87);\">Gracias a ti.</p><p><a href=\"https://youtu.be/WD6XJT9yjxQ\"\
+    \ target=\"_blank\">MOOC Act\xEDvate - Introducci\xF3n. \xBFQu\xE9 es y para qu\xE9\
+    \ nos sirve un plan estrat\xE9gico?</a></p><p><br></p><p><br><br></p>"
+  id: intro
+  title: INICIO
+  type: Page
+- content: |-
+    <p><iframe frameborder="0" src="//www.youtube.com/embed/WD6XJT9yjxQ" width="640" height="360" class="note-video-clip"></iframe><br></p>
+  id: page36
+  title: "Introducci\xF3n. \xBFQu\xE9 es y para qu\xE9 nos sirve un plan estrat\xE9\
+    gico?"
+  type: Page
+rules:
+  access:
+  - if_has_role:
+    - ta
+    - student
+    - instructor
+    permissions:
+    - view
+  grade_identifier: null
+title: "Introducci\xF3n. \xBFQu\xE9 es y para qu\xE9 nos sirve un plan estrat\xE9\
+  gico?"
