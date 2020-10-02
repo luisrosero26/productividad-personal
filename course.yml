@@ -1,0 +1,20 @@
+chunks:
+- content: ''
+  flows:
+  - flow_id: flow14
+    next_flow: quiz15
+    pages:
+    - flow_id: page36
+      title: "Introducci\xF3n. \xBFQu\xE9 es y para qu\xE9 nos sirve un plan estrat\xE9\
+        gico?"
+    title: "Introducci\xF3n. \xBFQu\xE9 es y para qu\xE9 nos sirve un plan estrat\xE9\
+      gico?"
+    title_next_flow: Comprueba tus conocimientos
+  id: welcome
+  introduction: "<p><span style=\"color: rgb(95, 99, 104); font-family: &quot;Google\
+    \ Sans&quot;, Arial, sans-serif; font-size: 16px;\">Conoce qu\xE9 es y por qu\xE9\
+    \ es \xFAtil un plan estrat\xE9gico y de acci\xF3n. En \xE9l se analiza qui\xE9\
+    nes somos, se establecen objetivos alcanzables y se identifica en qui\xE9n podemos\
+    \ apoyarnos para poder conseguir nuestros objetivos.</span><br></p>"
+  rules: []
+  title: Productividad Personal
