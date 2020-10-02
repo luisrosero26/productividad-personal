@@ -1,0 +1,54 @@
+completion_text: |-
+  <p><span style="color: rgb(97, 97, 97); font-family: Roboto, Arial, sans-serif; text-align: center;">Responde a todas las preguntas y haz clic en ENVIAR.</span><br></p>
+description: ""
+groups:
+- id: intro
+  pages:
+  - content: " "
+    id: welcome
+    title: "Introducci\xF3n. \xBFQu\xE9 es y para qu\xE9 nos sirve un plan estrat\xE9\
+      gico?"
+    type: Page
+- id: quiz_start
+  pages:
+  - choices:
+    - "~CORRECT~ Para conocerse mejor a s\xED mismo."
+    - "Para saber c\xF3mo es."
+    - Para ascender dentro de su empresa.
+    - "Para identificar cu\xE1les son sus objetivos."
+    credit_mode: exact
+    id: quizquestion35
+    prompt: ''
+    shuffle: false
+    title: "Dami\xE1n est\xE1 atravesando una etapa en su vida con la que no est\xE1\
+      \ satisfecho, tanto a nivel personal como profesional. Su compa\xF1era Diana,\
+      \ le ha comentado que realizar un plan estrat\xE9gico personal le podr\xEDa\
+      \ ayudar.  Ayuda a Dami\xE1n seleccionando las opciones"
+    type: MultipleChoiceQuestion
+    value: 20.0
+  shuffle: false
+rules:
+  access:
+  - permissions:
+    - view
+    - submit_answer
+    - end_session
+    - see_correctness
+    - see_answer_after_submission
+  grade_aggregation_strategy: use_latest
+  grade_identifier: quiz15
+  grading:
+  - credit_percent: 100
+  start:
+  - if_before: 2020-10-30 16:11:24+00:00
+    if_has_fewer_sessions_than: 1
+    if_has_role:
+    - student
+    - ta
+    - instructor
+    may_list_existing_sessions: true
+    may_start_new_session: true
+  - may_list_existing_sessions: true
+    may_start_new_session: false
+title: "Introducci\xF3n. \xBFQu\xE9 es y para qu\xE9 nos sirve un plan estrat\xE9\
+  gico?"
