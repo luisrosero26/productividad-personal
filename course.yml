@@ -5,10 +5,8 @@ chunks:
     next_flow: quiz15
     pages:
     - flow_id: page36
-      title: "Introducci\xF3n. \xBFQu\xE9 es y para qu\xE9 nos sirve un plan estrat\xE9\
-        gico?"
-    title: "Introducci\xF3n. \xBFQu\xE9 es y para qu\xE9 nos sirve un plan estrat\xE9\
-      gico?"
+      title: "\xBFQu\xE9 es y para qu\xE9 nos sirve un plan estrat\xE9gico?"
+    title: "Introducci\xF3n."
     title_next_flow: Comprueba tus conocimientos
   id: welcome
   introduction: "<p><span style=\"color: rgb(95, 99, 104); font-family: &quot;Google\
