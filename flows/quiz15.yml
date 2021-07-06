@@ -40,7 +40,7 @@ rules:
   grading:
   - credit_percent: 100
   start:
-  - if_before: 2020-10-30 16:11:24+00:00
+  - if_before: 2021-10-30 16:11:24+00:00
     if_has_fewer_sessions_than: 1
     if_has_role:
     - student
