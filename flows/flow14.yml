@@ -2,7 +2,7 @@ completion_text: |-
   <h2 class="activity-intro__title heading--h3" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: &quot;Roboto Slab&quot;, Georgia, sans-serif; text-rendering: optimizelegibility; margin: 0px 0px 2rem; -webkit-font-smoothing: antialiased; font-size: 2rem; line-height: 2.2rem; color: rgba(0, 0, 0, 0.87); max-width: 50%;"><span style="color: rgb(97, 97, 97); font-family: Roboto, Arial, sans-serif; font-size: 14px; text-align: center;">Responde a todas las preguntas y haz clic en ENVIAR.</span><br></h2>
 description: "Conocer c\xF3mo desarrollar un plan estrat\xE9gico como herramienta\
   \ base para conseguir nuestros objetivos."
-next_flow_id: quiz15
+next_flow_id: quiz24
 next_flow_title: Comprueba tus conocimientos
 pages:
 - content: |-
