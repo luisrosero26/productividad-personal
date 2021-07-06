@@ -2,7 +2,7 @@ chunks:
 - content: ''
   flows:
   - flow_id: flow14
-    next_flow: quiz15
+    next_flow: quiz24
     pages:
     - flow_id: page36
       title: "\xBFQu\xE9 es y para qu\xE9 nos sirve un plan estrat\xE9gico?"
